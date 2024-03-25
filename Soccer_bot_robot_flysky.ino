@@ -1,6 +1,5 @@
-//YouTube|Tech at Home
 
-//Receiver signal pins
+
 double ch1_pin = 3;  //PWM pin
 double ch2_pin = 5;  //PWM pin
 
